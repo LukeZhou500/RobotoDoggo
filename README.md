@@ -1,3 +1,5 @@
-<img width="3024" height="4032" alt="IMG_2029" src="https://github.com/user-attachments/assets/b45c9e6f-7a81-4e8f-856a-00ed2be28f90" />
+![IMG_2029](https://github.com/user-attachments/assets/b45c9e6f-7a81-4e8f-856a-00ed2be28f90)
+
 # RobotoDoggo
-A not finished project where I am making a robot dog mid-small using servos and a Raspberry Pi
+A not finished project where I am making a mid-to-small-sized robot dog using servos and a Raspberry Pi.better
+The main mechanism uses a parallelogram linkage, allowing both servos to be mounted close together saving space and reducing strain.
